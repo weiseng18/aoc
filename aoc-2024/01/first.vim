@@ -1,3 +1,6 @@
+"" NOTE: this is run manually by copying/typing commands.
+"" may convert to a proper executable later on
+
 "" clear register clipboard
 qbq
 :wshada!
